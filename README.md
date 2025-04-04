@@ -3,29 +3,18 @@ The Blinkit Sales Performance Dashboard is an advanced business intelligence sol
 # 🎯 Project Objective
 The primary goal of this project is to analyze and improve Blinkit's operational efficiency by visualizing sales patterns, identifying high- and low-performing outlets, understanding product demand, and evaluating customer satisfaction. The dashboard offers a clear, concise way to monitor performance and make informed business decisions across multiple retail dimensions.
 # 🔍 Key Features & Functionalities
-- 📈 Total Sales Overview
-- Visualizes the overall revenue performance, helping identify trends and outliers across all store types.
-- 🏪 Outlet Performance Analysis
-- Breaks down sales data based on store location types (e.g., urban, rural, etc.) and store sizes, allowing comparison between different operational environments.
-- 📦 Product Category Insights
-- Categorizes and compares item sales across multiple product types such as Fruits, Snacks, Frozen items, and more to reveal demand and inventory insights.
-- ⭐ Customer Ratings & Sales Trends
-- Tracks customer satisfaction via ratings and links them to sales trends over time, highlighting the relationship between service quality and revenue.
-- 🧩 Interactive Filtering & Drill-Downs
-- Users can apply filters based on outlet type, size, or product category. Interactive elements allow users to drill down into specific metrics for detailed insights.
-- 🧠 Insightful KPIs
-- Key performance indicators such as average sales per outlet, top-selling categories, and customer feedback scores are clearly visualized.
+- **📈 Total Sales Overview** - Visualizes the overall revenue performance, helping identify trends and outliers across all store types.
+- **🏪 Outlet Performance Analysis** - Breaks down sales data based on store location types (e.g., urban, rural, etc.) and store sizes, allowing comparison between different operational environments.
+- **📦 Product Category Insights** - Categorizes and compares item sales across multiple product types such as Fruits, Snacks, Frozen items, and more to reveal demand and inventory insights.
+- **⭐ Customer Ratings & Sales Trends** - Tracks customer satisfaction via ratings and links them to sales trends over time, highlighting the relationship between service quality and revenue.
+- **🧩 Interactive Filtering & Drill-Downs** - Users can apply filters based on outlet type, size, or product category. Interactive elements allow users to drill down into specific metrics for detailed insights.
+- **🧠 Insightful KPIs** - Key performance indicators such as average sales per outlet, top-selling categories, and customer feedback scores are clearly visualized.
 # 📂 Project Structure & Deliverables
-📁 Data Folder
-Contains the cleaned and preprocessed raw data used in the dashboard.
-📁 Icons Folder
-Custom-designed icon assets used to enhance visual storytelling within the Power BI interface.
-📄 Power BI Project File – BlinkIT Sales Performance Analysis.pbix
-The interactive dashboard built using Power BI Desktop.
-📄 PDF Summary Report – BlinkIT Sales Performance Analysis.pdf
-A static, professionally formatted report summarizing key findings and dashboard snapshots.
-🖼 Dashboard Screenshot – BlinkIT Sales Performance Analysis.png
-A visual preview of the final dashboard layout and components.
+- **📁 Data Folder** - Contains the cleaned and preprocessed raw data used in the dashboard.
+- **📁 Icons Folder** - Custom-designed icon assets used to enhance visual storytelling within the Power BI interface.
+- **📄 Power BI Project File – BlinkIT Sales Performance Analysis.pbix** - The interactive dashboard built using Power BI Desktop.
+- **📄 PDF Summary Report – BlinkIT Sales Performance Analysis.pdf** - A static, professionally formatted report summarizing key findings and dashboard snapshots.
+- **🖼 Dashboard Screenshot – BlinkIT Sales Performance Analysis.png** - A visual preview of the final dashboard layout and components.
 
 # 🛠 Tools, Languages & Technologies
 - **Power BI** – Used for data modeling, visualization, and dashboard design.
