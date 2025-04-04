@@ -37,7 +37,8 @@ DAX (Data Analysis Expressions) – Created custom columns, KPIs, and measures f
 - Click on charts, cards, and visuals to drill down into detailed data points.
 - Review trends and KPIs across visuals to derive strategic insights.
 - Refer to the PDF report for a quick overview or to share insights offline.
-#💡 Business Impact
+  
+# 💡Business Impact
 - Enhanced Decision Making: Helps management make faster and more informed decisions based on real-time insights.
 - Operational Optimization: Identifies underperforming outlets and product categories to guide improvements.
 - Customer Insight: Correlates customer ratings with product performance and outlet efficiency.
