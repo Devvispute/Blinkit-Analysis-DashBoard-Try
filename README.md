@@ -26,11 +26,12 @@ The interactive dashboard built using Power BI Desktop.
 A static, professionally formatted report summarizing key findings and dashboard snapshots.
 🖼 Dashboard Screenshot – BlinkIT Sales Performance Analysis.png
 A visual preview of the final dashboard layout and components.
+
 # 🛠 Tools, Languages & Technologies
-Power BI – Used for data modeling, visualization, and dashboard design.
-Microsoft Excel – Data wrangling and initial exploration.
-SQL – Used for querying and transforming data prior to import into Power BI.
-DAX (Data Analysis Expressions) – Created custom columns, KPIs, and measures for advanced insights.
+- **Power BI** – Used for data modeling, visualization, and dashboard design.
+- **Microsoft Excel** – Data wrangling and initial exploration.
+- **SQL** – Used for querying and transforming data prior to import into Power BI.
+- **DAX (Data Analysis Expressions)** – Created custom columns, KPIs, and measures for advanced insights.
 # 🚀 How to Navigate & Use the Dashboard
 - Open the .pbix file using Power BI Desktop.
 - Use the filter panel to select specific outlet types, sizes, or product categories.
