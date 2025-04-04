@@ -32,16 +32,16 @@ Microsoft Excel – Data wrangling and initial exploration.
 SQL – Used for querying and transforming data prior to import into Power BI.
 DAX (Data Analysis Expressions) – Created custom columns, KPIs, and measures for advanced insights.
 # 🚀 How to Navigate & Use the Dashboard
-Open the .pbix file using Power BI Desktop.
-Use the filter panel to select specific outlet types, sizes, or product categories.
-Click on charts, cards, and visuals to drill down into detailed data points.
-Review trends and KPIs across visuals to derive strategic insights.
-Refer to the PDF report for a quick overview or to share insights offline.
+- Open the .pbix file using Power BI Desktop.
+- Use the filter panel to select specific outlet types, sizes, or product categories.
+- Click on charts, cards, and visuals to drill down into detailed data points.
+- Review trends and KPIs across visuals to derive strategic insights.
+- Refer to the PDF report for a quick overview or to share insights offline.
 #💡 Business Impact
-Enhanced Decision Making: Helps management make faster and more informed decisions based on real-time insights.
-Operational Optimization: Identifies underperforming outlets and product categories to guide improvements.
-Customer Insight: Correlates customer ratings with product performance and outlet efficiency.
-Sales Strategy: Enables trend forecasting and sales optimization strategies based on historic and live data.
+- Enhanced Decision Making: Helps management make faster and more informed decisions based on real-time insights.
+- Operational Optimization: Identifies underperforming outlets and product categories to guide improvements.
+- Customer Insight: Correlates customer ratings with product performance and outlet efficiency.
+- Sales Strategy: Enables trend forecasting and sales optimization strategies based on historic and live data.
 # 📬 Contact & Support
 For questions, feedback, or further collaboration, feel free to get in touch.
 We aim to support your data-driven journey with effective, insightful tools.
