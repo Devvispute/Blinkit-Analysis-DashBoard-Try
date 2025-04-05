@@ -1,3 +1,7 @@
+Screenshot of BlinkIT Sales Performance Analysis.png
+
+
+
 # 📊 Final Project Overview: Blinkit Sales Performance Dashboard
 The Blinkit Sales Performance Dashboard is an advanced business intelligence solution created in Power BI. It is designed to deliver actionable insights into Blinkit’s retail performance, combining sales metrics, outlet details, product analytics, and customer satisfaction in a single, interactive view. This dashboard serves as a powerful decision-support tool for stakeholders, enabling data-driven strategies through rich visualizations and dynamic filtering options.
 # 🎯 Project Objective
